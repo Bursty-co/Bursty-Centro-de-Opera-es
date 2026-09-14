@@ -1,0 +1,12 @@
+{
+  "name": "bursty-central-operacoes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel interno da Bursty (todos os clientes) + Painel Boost. Servido por Node, sem dependencias.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
